@@ -4,3 +4,11 @@
     color: red;
     background-color: black;
   }
+
+  .alert-text {
+    color: blue;
+  }
+
+  .ancestor .contents {
+    color:green;
+  }
